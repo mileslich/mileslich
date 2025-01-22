@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Miles Lich! I'm a computer engineering technology major at Purdue University who likes hardware.
 <!--
 **mileslich/mileslich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
